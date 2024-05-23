@@ -14,4 +14,7 @@ voila mon texte
 
 # pour m'entrainer
  voila je refait une test de commit voir si j'ai compri
+
+ # dans l'autre sens
+ je modifie sur github et le recuperer sur git local
  
